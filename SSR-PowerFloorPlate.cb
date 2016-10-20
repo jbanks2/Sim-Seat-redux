@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="SSR-PowerFloorPlate">
+  <layers>
+    <layer name="Default" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <points id="89">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20,770</p>
+            <p>20,690</p>
+            <p>20,610</p>
+            <p>480,610</p>
+            <p>480,690</p>
+            <p>480,770</p>
+          </pts>
+        </points>
+        <pline id="144" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,590,0</p>
+            <p>500,590,0</p>
+            <p>500,790,0</p>
+            <p>0,790,0</p>
+          </pts>
+        </pline>
+        <pline id="145" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">24.2426406871193,610,0</p>
+            <p b="0.57735026918962573">17.8786796564404,613.674234614175,0</p>
+            <p b="0.57735026918962573">17.8786796564404,606.325765385825,0</p>
+          </pts>
+        </pline>
+        <pline id="146" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">24.2426406871193,690,0</p>
+            <p b="0.57735026918962573">17.8786796564404,693.674234614175,0</p>
+            <p b="0.57735026918962573">17.8786796564404,686.325765385825,0</p>
+          </pts>
+        </pline>
+        <pline id="147" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">24.2426406871193,770,0</p>
+            <p b="0.57735026918962573">17.8786796564404,773.674234614175,0</p>
+            <p b="0.57735026918962573">17.8786796564404,766.325765385825,0</p>
+          </pts>
+        </pline>
+        <pline id="148" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">484.242640687119,610,0</p>
+            <p b="0.57735026918962573">477.87867965644,613.674234614175,0</p>
+            <p b="0.57735026918962573">477.87867965644,606.325765385825,0</p>
+          </pts>
+        </pline>
+        <pline id="149" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">484.242640687119,690,0</p>
+            <p b="0.57735026918962573">477.87867965644,693.674234614175,0</p>
+            <p b="0.57735026918962573">477.87867965644,686.325765385825,0</p>
+          </pts>
+        </pline>
+        <pline id="150" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">484.242640687119,770,0</p>
+            <p b="0.57735026918962573">477.87867965644,773.674234614175,0</p>
+            <p b="0.57735026918962573">477.87867965644,766.325765385825,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Default</ActiveLayer>
+</CADFile>
